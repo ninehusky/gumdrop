@@ -8,4 +8,7 @@ cd build
 cmake ..
 make
 
+# run tests
+./tests
+
 echo "=== gumdrop done! ==="
