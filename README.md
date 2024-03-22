@@ -6,6 +6,8 @@ This is a gameboy emulator written in C++. Yeah!
 
 ## Build
 
+You can probably just do `./buildmii.sh` and it'll build everything for you. If you want to do it manually, you can do the following:
+
 ```
 $ mkdir build
 $ cd build
